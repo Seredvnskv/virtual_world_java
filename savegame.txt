@@ -1,0 +1,27 @@
+12 12 true 4
+L 11 1 Lis 3 4 
+W 4 2 Wilk 9 4 
+W 10 11 Wilk 9 4 
+O 9 11 Owca 4 4 
+O 11 7 Owca 4 4 
+A 8 10 Antylopa 4 4 
+A 9 7 Antylopa 4 4 
+C 7 5 Czlowiek 5 0 false 0 0 
+Z 0 4 Zółw 2 0 
+. 5 3 Trawa 0 0 
+. 3 2 Trawa 0 0 
+* 6 4 Mlecz 0 0 
+- 5 10 Wilcze_Jagody 99 0 
+- 7 8 Wilcze_Jagody 99 0 
++ 10 2 Guarana 0 0 
+# 6 2 Barszcz_Sosnowskiego 10 0 
+# 1 6 Barszcz_Sosnowskiego 10 0 
+- 5 9 Wilcze_Jagody 99 0 
+- 7 9 Wilcze_Jagody 99 0 
+* 11 2 Mlecz 0 0 
+* 6 5 Mlecz 0 0 
+* 7 4 Mlecz 0 0 
+* 8 4 Mlecz 0 0 
+* 8 3 Mlecz 0 0 
+* 11 3 Mlecz 0 0 
+* 10 3 Mlecz 0 0 
